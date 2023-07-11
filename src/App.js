@@ -9,7 +9,7 @@ const App = () => {
     },
     {
       id: 2,
-      title: 'Jacket',
+      title: 'Jackets',
       imageUrl: 'https://i.ibb.co/px2tCc3/jackets.png',
     },
     {
